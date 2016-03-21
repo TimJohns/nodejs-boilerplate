@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for NodeJS Toy Apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimJohns/nodejs-boilerplate.git"
+  },
+  "author": "Timothy A. Johns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimJohns/nodejs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/TimJohns/nodejs-boilerplate"
+}
